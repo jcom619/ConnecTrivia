@@ -100,7 +100,7 @@ table {
    position:absolute;
    width: 20%;
    padding: 2px;
-   bottom: 0;
+   bottom: 20px;
    margin: 1em;
    background: rgb(218, 193, 9);
    text-shadow: 1px 1px 5px rgb(12, 9, 9);
