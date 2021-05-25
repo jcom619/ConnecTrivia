@@ -8,7 +8,7 @@
 } */
 
  body {
- 
+  overflow: hidden;
   position:absolute;
   top: 2em;
   bottom: 0;
