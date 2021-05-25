@@ -129,7 +129,9 @@ body {
   #modalBtn {
     padding: 2px 6px;
     border: 1px solid white;
-    font-size: 3em;
+    font-size: 2.5em;
+    border: 1px solid white;
+  }
   }
   body {
     font-size: .5em;
