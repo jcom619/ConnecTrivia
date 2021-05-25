@@ -108,4 +108,7 @@ body {
     font-size: .75em;
     margin: 0.1em;
 }
+.modal {
+  background-color: rgba(255, 255, 255,0.3)
+}
 }
